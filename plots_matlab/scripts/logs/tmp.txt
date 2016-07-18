@@ -1,0 +1,11 @@
+8 Devices in list.
+ usb device 046d:08c9 found with port=2-1.2
+ LCD brightness level set to 1
+0
+0
+0
+SINGLE TEST MODE
+Cam1 - run=0
+here!	Settings width=640 height=480 fps=5
+Getting measurements...
+Waiting 5 secs to get measurements...
