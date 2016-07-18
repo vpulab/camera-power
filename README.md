@@ -38,13 +38,13 @@ Please cite the following publication if this software helps your research:
 
 ## Requirements
 
-This tool was successfully tested under Ubuntu OS 14.04 64-bit Windows. Matlab scripts have been tested under MS Windows 7 (32-bit and 64-bit) and linux (32-bit) for versions 2012b and 2013a.
+ * This tool was successfully tested under Ubuntu OS 14.04 64-bit Windows.
 
 	Unix tools required: 
 		- libusb v1.0 http://www.libusb.org/
 		- acpitool, ifconfig, cpufreq-tools, wondershaper
- *	
-
+ * Matlab scripts have been tested under MS Windows 7 (32-bit and 64-bit) and linux (32-bit) for versions 2012b and 2013a.
+ 
 ## Directory structure
 
 The following directories are included:
