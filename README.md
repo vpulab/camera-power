@@ -1,11 +1,11 @@
-# Software for Skin detection by dual maximization of detectors agreement for video monitoring
+# Software for Energy consumption models for smart-camera networks
 
 ## Overview 
 This software provides Unix programs to get power measurements of (emulated)smart cameras composed of sensing, processing and communication modules.
 
 Check out the [project site](http://www-vpu.ii.uam.es/publications/camera_power/) for all the details like:
 - [Sample results](http://www-vpu.eps.uam.es/publications/camera_power/data/)
-- Validation results for [sensing](http://www-vpu.ii.uam.es/publications/camera_power/data/SEN_0_active-idle_consumption.pdf) [processing](http://www-vpu.ii.uam.es/publications/camera_power/data/PRO_3_active-vs-idle.pdf) and [communication] (http://www-vpu.ii.uam.es/publications/camera_power/data/COM_1_runs_active.pdf)
+- Validation results for [sensing](http://www-vpu.ii.uam.es/publications/camera_power/data/SEN_0_active-idle_consumption.pdf), [processing](http://www-vpu.ii.uam.es/publications/camera_power/data/PRO_3_active-vs-idle.pdf) and [communication] (http://www-vpu.ii.uam.es/publications/camera_power/data/COM_1_runs_active.pdf)
 
 ## Introduction
 
@@ -39,6 +39,11 @@ Please cite the following publication if this software helps your research:
 ## Requirements
 
 This tool was successfully tested under Ubuntu OS 14.04 64-bit Windows. Matlab scripts have been tested under MS Windows 7 (32-bit and 64-bit) and linux (32-bit) for versions 2012b and 2013a.
+
+	Unix tools required: 
+		- libusb v1.0 http://www.libusb.org/
+		- acpitool, ifconfig, cpufreq-tools, wondershaper
+ *	
 
 ## Directory structure
 
